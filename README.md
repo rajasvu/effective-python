@@ -1,2 +1,2 @@
-# effective-python
-Some samples based on Effective python by Brett Slatkin
+# Learnings from Effective Python by Brett Slatkin
+
